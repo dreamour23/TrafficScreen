@@ -7,7 +7,7 @@ It allows to make screendumps from the most popular mapping websites that offer 
     - Waze
     - HERE
 
-Prerquesite:
+Prerequesite:
     pip install 
         selenium
         time
